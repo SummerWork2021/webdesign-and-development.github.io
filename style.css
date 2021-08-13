@@ -62,10 +62,10 @@ nav ul li a{
 	font-weight:bold;
 }
 .model{
-	height:430px;
+	height:350px;
 	position:absolute;
-	bottom:40px;
-	left:75%;
+	bottom:90px;
+	left:85%;
 	transform: translateX(-75%);
 }
 .text-container p:nth-child(1){
